@@ -1,0 +1,3 @@
+INPUT FUNCTIONS
+Q1-input("what is your name?")
+Q2-print("Hey"+""+input("What is your name?")+","+"how are you")
